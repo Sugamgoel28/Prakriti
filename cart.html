@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-commerce website clone</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+</head>
+<body>
+    <section id="header">
+        <a href="#"><img src="Images/Logo-removebg.png" class="Logo" alt="Prakriti"></a>
+    <div>
+        <ul id="navbar">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="shop.html">Shop</a></li>
+            <li><a href="blog.html">Blog</a></li>
+            <li><a href="contact.html">Contact</a></li>
+            <li><a class="active"href="cart.html"><i class="fa-solid fa-bag-shopping"></i></a></li>
+        </ul>
+    </div>
+    </section>
+    
+    <h1 class="section-p1" id="cart-heading">My Shopping Cart</h1>
+
+    <section id="cart" class="section-p1">
+        <table width ="">
+            <thead>
+                <tr>
+                    <td>Remove</td>
+                    <td>Image</td>
+                    <td>Product</td>
+                    <td>Price</td>
+                    <td>Quantity</td>
+                    <td>Subtotal</td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><a href=""><i class="far fa-times-circle"></i></a></td>
+                    <td><img src="Images/plantable pencils.png" alt=""></td>
+                    <td>Plantable pencils</td>
+                    <td>₹199</td>
+                    <td><input type="number" value="1"></td>
+                    <td>₹199</td>
+                </tr>
+                <tr>
+                    <td><a href=""><i class="far fa-times-circle"></i></a></td>
+                    <td><img src="Images/Combo of 4 indoor plants.png" alt=""></td>
+                    <td>Indoor plants (Combo of 4)</td>
+                    <td>₹999</td>
+                    <td><input type="number" value="1"></td>
+                    <td>₹999</td>
+                </tr>
+                <tr>
+                    <td><a href=""><i class="far fa-times-circle"></i></a></td>
+                    <td><img src="Images/Feng shui Plant.png" alt=""></td>
+                    <td>Feng shui plant</td>
+                    <td>₹249</td>
+                    <td><input type="number" value="1"></td>
+                    <td>₹249</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+
+    <section id="cart-add" class="section-p1">
+        <div id="coupon">
+            <h3>Apply Coupon</h3>
+            <div>
+                <input type="text" placeholder="Enter Your Coupon">
+                <button class="btn2">Apply</button>
+            </div>    
+        </div>
+        <div id="Subtotal">
+            <h3>Cart Total</h3>
+            <table>
+                <tr>
+                    <td>Cart Subtotal</td>
+                    <td>₹300</td>
+                </tr>
+                <tr>
+                    <td>Shipping</td>
+                    <td>Free</td>
+                </tr>
+                <tr>
+                    <td><strong>Total</strong></td>
+                    <td>₹300</td>
+                </tr>
+            </table>
+            <button class="btn2">Proceed to checkout</button>
+        </div>
+    </section>
+
+    <section id="product1" class="section-p1">
+        <h2>People also Viewed</h2>
+        <p>Nature's Best, Handpicked for You</p>
+        <div class="pro-container">
+            <div class="pro">
+                <img src="Images/Bamboo brush.png" alt="">
+                <div class="des">
+                    <span>arani</span>
+                    <h5>Bamboo toothbrush</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>₹99</h4>
+                </div>
+                <a href="#"><i class="fa-solid fa-cart-shopping cart-icon"></i></a>
+            </div>
+            <div class="pro">
+                <img src="Images/plantable pencils.png" alt="">
+                <div class="des">
+                    <span>bio</span>
+                    <h5>Plantable pencils</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>₹199</h4>
+                </div>
+                <a href="#"><i class="fa-solid fa-cart-shopping cart-icon"></i></a>
+            </div>
+            <div class="pro">
+                <img src="Images/Portulaca Plants Hanging Baskets.png" alt="">
+                <div class="des">
+                    <span>arani</span>
+                    <h5>Portulaca Hanging Baskets</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>₹499</h4>
+                </div>
+                <a href="#"><i class="fa-solid fa-cart-shopping cart-icon"></i></a>
+            </div>
+            <div class="pro">
+                <img src="Images/string of pearls.png" alt="">
+                <div class="des">
+                    <span>arani</span>
+                    <h5>String of pearls</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>₹179</h4>
+                </div>
+                <a href="#"><i class="fa-light fa-cart-shopping"></i></a>
+            </div> 
+        </div>
+    </section>
+    
+    <section id="newsletter" class="section-p1 section-m1">
+        <div class="news-text">
+           <h4>Sign Up for Our <span>Newsletter</span></h4>
+           <p>Be the first to get updates about out <span>special offers</span></p>     
+        </div>
+        <div class="form">
+            <input type="text" placeholder="Your email address">
+            <button class="normal">Sign Up</button>
+        </div>
+    </section>
+
+    <footer class="section-p1">
+    <div class="col">
+        <img src="Images/Logo-removebg.png" class="Logo">
+        <p><Strong>Address: </Strong>123 ABC Road, Street 12, India, 101010</p>
+        <p><Strong>Phone: </Strong>+91 1231231231 / +91 1233211233</p>
+        <div class="icon follow">
+            <i class="fab fa-facebook-f"></i>
+            <i class="fab fa-twitter"></i>
+            <i class="fab fa-instagram"></i>
+            <i class="fab fa-pinterest-p"></i>
+            <i class="fab fa-youtube"></i>
+        </div>
+    </div>    
+    <div class="col">
+        <h4>About us</h4>
+        <a href="#">Delivery Information</a>
+        <a href="#">Privacy Policy</a>
+        <a href="#">Terms & Condition</a>
+        <a href="#">Careers</a>
+    </div>
+    <div class="col">
+        <h4>My Account</h4>
+        <a href="#">Sign In</a>
+        <a href="#">View Cart</a>
+        <a href="#">My Wishlists</a>
+        <a href="#">Track My order</a>
+        <a href="#">Help</a>
+    </div>
+    <div class="col">
+            <h4>Make Money with us</h4>
+            <a href="#">Sell on Prakriti</a>
+            <a href="#">Become an Affiliate</a>
+            <a href="#">Advertise your products</a>    
+    </div>
+    </footer>
+    <div class="copright">
+        <p>&#169; 2023, Prakriti India Private Ltd, New Delhi, India, 110011</p>
+    </div>
+    <script src="srcipt.js"></script> 
+</body>
+</html>
