@@ -103,7 +103,6 @@ With the growing importance of environmental conservation and sustainable living
   </tr>
 </table>
 <br>
-<br>
 
 
 ## Future Improvements & Deployment
