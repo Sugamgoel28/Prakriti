@@ -30,17 +30,11 @@ With the growing importance of environmental conservation and sustainable living
 
 | S No. | Page | Description |
 |--| --- | ----------- |
-|1.| Home Page | <a href="https://drive.google.com/file/d/1Kgv3FnNOeJPgLHuiqntjmPo81DiR3ohu/view?usp=sharing" title="Link Title"><img src="Images/image.png" alt="Alternate Text" height="100px"/></a> |
-|2.| Shop Page | Text |
-|3.| Blog Page | Text |
-|4.| Contact Page | Text |
-|5.| Cart Page | Text |
-
-<a href="https://drive.google.com/file/d/1Kgv3FnNOeJPgLHuiqntjmPo81DiR3ohu/view?usp=sharing" title="Link Title"><img src="Images/image.png" alt="Alternate Text" /></a>
-<a href="https://drive.google.com/file/d/1Kgv3FnNOeJPgLHuiqntjmPo81DiR3ohu/view?usp=sharing" title="Link Title"><img src="Images/image.png" alt="Alternate Text" /></a>
-<a href="https://drive.google.com/file/d/1Kgv3FnNOeJPgLHuiqntjmPo81DiR3ohu/view?usp=sharing" title="Link Title"><img src="Images/image.png" alt="Alternate Text" /></a>
-<a href="https://drive.google.com/file/d/1Kgv3FnNOeJPgLHuiqntjmPo81DiR3ohu/view?usp=sharing" title="Link Title"><img src="Images/image.png" alt="Alternate Text" /></a>
+|1.| Home Page | <a href="https://drive.google.com/file/d/1Kgv3FnNOeJPgLHuiqntjmPo81DiR3ohu/view?usp=sharing" title="Home Page"><img src="Images/image.png" alt="Home Page" height="100px"/></a> |
+|2.| Shop Page | <a href="https://drive.google.com/file/d/1Kgv3FnNOeJPgLHuiqntjmPo81DiR3ohu/view?usp=sharing" title="Shop Page"><img src="Images/image.png" alt="Shop Page" height="100px"/></a> |
+|3.| Blog Page | <a href="https://drive.google.com/file/d/1Kgv3FnNOeJPgLHuiqntjmPo81DiR3ohu/view?usp=sharing" title="Blog Page"><img src="Images/image.png" alt="Blog Page" height="100px"/></a> |
+|4.| Contact Page | <a href="https://drive.google.com/file/d/1Kgv3FnNOeJPgLHuiqntjmPo81DiR3ohu/view?usp=sharing" title="Contact Page"><img src="Images/image.png" alt="Contact Page" height="100px"/></a> |
+|5.| Cart Page | <a href="https://drive.google.com/file/d/1Kgv3FnNOeJPgLHuiqntjmPo81DiR3ohu/view?usp=sharing" title="Cart Page"><img src="Images/image.png" alt="Cart Page" height="100px"/></a> |
 
 
- ![Blog Page](Videos/Blog Page.mp4)
 
