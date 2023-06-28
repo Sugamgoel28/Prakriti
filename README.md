@@ -25,11 +25,12 @@ With the growing importance of environmental conservation and sustainable living
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 
-<img src="Images/image.png">
+
 # Hi
-<video src="" controls="controls" style="max-width: 730px">
-</video>
-<iframe src="https://drive.google.com/file/d/1Kgv3FnNOeJPgLHuiqntjmPo81DiR3ohu/view?usp=sharing" ></iframe>
+
+
+<a href="https://drive.google.com/file/d/1Kgv3FnNOeJPgLHuiqntjmPo81DiR3ohu/view?usp=sharing" title="Link Title"><img src="Images/image.png" alt="Alternate Text" /></a>
+<iframe src="" ></iframe>
 <iframe src=""></iframe>
 <iframe src=""></iframe>
 <iframe src=""></iframe>
