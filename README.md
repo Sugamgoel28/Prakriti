@@ -1,7 +1,6 @@
 <h1 align="center">PROJECT PRAKRITI🌱🌿</h1>
 
-> <h5 align="center"><i>Hi Stranger! Welcome to this Repo. Your presence here is truly appreciated. Feel free to explore, scrutinize, and drop feedback & suggestions. <br> Let's not be strangers any more? 👉<a href= "https://www.linkedin.com/in/sugam-goel-india/">Connect</a></i></h5> 
-
+> _Hi Stranger! Welcome to this Repo. Your presence here is truly appreciated. Feel free to explore, scrutinize, and drop feedback & suggestions. Let's not be strangers any more? 👉<a href= "https://www.linkedin.com/in/sugam-goel-india/">Connect</a>_
 <h2>PRAKRITI: Eco-Friendly Products and Plant Store</h2>
 Prakriti is a website project aimed at creating the front end of an online platform for selling a wide range of eco-friendly products and plants. This website provides a user-friendly interface that allows users to explore and purchase various environmentally sustainable items, including plants, eco-friendly gifts, organic products, and more.<br><br>
 
@@ -118,4 +117,4 @@ With the growing importance of environmental conservation and sustainable living
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 ## Thank You Note
-> Thank you for visiting the repository! If you found potential in my work, I would greatly appreciate it if you could show your support by starring this repo. Every star brings a beginner a step closer to being a star.✨
+> _Thank you for visiting the repository! If you found potential in my work, I would greatly appreciate it if you could show your support by starring this repo. Every star brings a beginner a step closer to being a star.✨_
