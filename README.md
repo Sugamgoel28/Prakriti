@@ -1,6 +1,6 @@
 <h1 align="center">PROJECT PRAKRITI🌱🌿</h1>
-<h5 align="center"><i> Hi Stranger! Welcome to this Repo. Your presence here is truly appreciated. Feel free to explore, scrutinize, and drop feedback & suggestions.</i></h5>
-<h6 align="center"><i>Let not be strangers any more? 👉<a href= "https://www.linkedin.com/in/sugam-goel-india/">Connect</a></i></h6> 
+
+> <h5 align="center"><i>Hi Stranger! Welcome to this Repo. Your presence here is truly appreciated. Feel free to explore, scrutinize, and drop feedback & suggestions. <br> Let's not be strangers any more? 👉<a href= "https://www.linkedin.com/in/sugam-goel-india/">Connect</a></i></h5> 
 
 <h2>PRAKRITI: Eco-Friendly Products and Plant Store</h2>
 Prakriti is a website project aimed at creating the front end of an online platform for selling a wide range of eco-friendly products and plants. This website provides a user-friendly interface that allows users to explore and purchase various environmentally sustainable items, including plants, eco-friendly gifts, organic products, and more.<br><br>
@@ -29,7 +29,7 @@ With the growing importance of environmental conservation and sustainable living
   <th>S. No.</th>
   <th>Page</th>
   <th>Key Features</th>
-  <th>Video Link</th>
+  <th>Link</th>
   <tr align= "center">
     <td>1.</td>
     <td>Home Page</td>
@@ -110,12 +110,12 @@ With the growing importance of environmental conservation and sustainable living
 ## Future Improvements & Deployment
 - **Backend Development:** As the current project focuses on the front end, future iterations will include the development of a robust backend. This will involve implementing server-side technologies, such as Node.js or Django, to handle data management, authentication, & API integrations.
 - **Database Integration:** In upcoming versions, the project will incorporate a database for efficient data storage and retrieval. This will enable dynamic content generation, personalized user experiences, and streamlined product management.
-- **Advanced Tech Stack:** While the current version utilizes beginner-friendly languages like HTML and CSS, future improvements will involve adopting more advanced tech stacks and frameworks. This may include utilizing front-end frameworks like React or Vue.js for enhanced interactivity and scalability, as well as leveraging back-end frameworks like Express.js or Django for efficient server-side development.
+- **Advanced Tech Stack:** While the current version utilizes beginner-friendly languages like HTML and CSS, future improvements will involve adopting more advanced tech stacks and frameworks. This may include utilizing front-end frameworks like React or Vue.js for enhanced interactivity and scalability.
 - **Deployment:** Currently hosted on a local server, the project's future iterations will prioritize deployment to improve accessibility. Deployment to a cloud-based platform, such as AWS, Azure, or Heroku, will ensure reliable access to the website from anywhere, enhancing user experience and scalability.
 
 ## Languages Used
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-## THANK YOU
-<h5 align="center">Thank you for visiting the repository! If you found value in our work, I would greatly appreciate it if you could show your support by starring this repo. Every star brings a beginner a step closer to being a star.✨</h5>
+## Thank You Note
+> Thank you for visiting the repository! If you found potential in my work, I would greatly appreciate it if you could show your support by starring this repo. Every star brings a beginner a step closer to being a star.✨
