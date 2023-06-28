@@ -45,7 +45,7 @@ With the growing importance of environmental conservation and sustainable living
         <li>Newsletter</li>       
       </ul>
     </td>
-    <td><a href="https://drive.google.com/file/d/1Kgv3FnNOeJPgLHuiqntjmPo81DiR3ohu/view?usp=drive_link" title="Home Page"><img src="Images/Final/Home Page.png" alt="Home Page" height="100px"/></a></td>
+    <td><a href="https://drive.google.com/file/d/1Kgv3FnNOeJPgLHuiqntjmPo81DiR3ohu/view?usp=drive_link" title="Home Page"><img src="Images/Final/Home Page.png" alt="Home Page" height="180px" width="400"/></a></td>
   </tr>
   <tr align= "center">
     <td>2.</td>
@@ -59,22 +59,50 @@ With the growing importance of environmental conservation and sustainable living
         <li>Footer</li>     
       </ul>
     </td>
-    <td><a href="https://drive.google.com/file/d/1Zz7rL4lZCqDrmS9tdsrYYjlQ6VhlIGs7/view?usp=sharing" title="Shop Page"><img src="Images/Final/Shop page.png" alt="Shop Page" height="100px"/></a></td>
+    <td><a href="https://drive.google.com/file/d/1Zz7rL4lZCqDrmS9tdsrYYjlQ6VhlIGs7/view?usp=sharing" title="Shop Page"><img src="Images/Final/Shop page.png" alt="Shop Page" height="180px" width="400"/></a></td>
   </tr>
   <tr align= "center">
     <td>3.</td>
     <td>Blog Page</td>
-    <td><a href="https://drive.google.com/file/d/1CF9O4KAPSc7D82FzdZvRjJPqb1wgsL2P/view?usp=sharing" title="Blog Page"><img src="Images/Final/Blog Page.png" alt="Blog Page" height="100px"/></a></td>
+    <td align ="left">
+      <ul>
+         <li>Nav Bar</li>
+        <li>Blogs</li>
+        <li>Pagination</li>
+        <li>Newsletter</li>
+        <li>Footer</li>         
+      </ul>
+    </td>
+    <td><a href="https://drive.google.com/file/d/1CF9O4KAPSc7D82FzdZvRjJPqb1wgsL2P/view?usp=sharing" title="Blog Page"><img src="Images/Final/Blog Page.png" alt="Blog Page" height="180px" width="400"/></a></td>
   </tr>
   <tr align= "center">
     <td>4.</td>
     <td>Contact Page</td>
-    <td><a href="https://drive.google.com/file/d/1J5rOoumIJ2BSiSWOI9l79FtkDg5B0EC6/view?usp=sharing" title="Contact Page"><img src="Images/Final/Contact Page.png" alt="Contact Page" height="100px"/></a></td>
+    <td align ="left">
+      <ul>
+        <li>Nav Bar</li>
+        <li>Contact Details</li>
+        <li>Embedded Map</li>
+        <li>Input Form</li>
+        <li>Newsletter</li>
+        <li>Footer</li>         
+      </ul>
+    </td>
+    <td><a href="https://drive.google.com/file/d/1J5rOoumIJ2BSiSWOI9l79FtkDg5B0EC6/view?usp=sharing" title="Contact Page"><img src="Images/Final/Contact Page.png" alt="Contact Page" height="180px" width="400"/></a></td>
   </tr>
   <tr align= "center">
     <td>5.</td>
     <td>Cart Page</td>
-    <td><a href="https://drive.google.com/file/d/1KKNenu1J7NW8XFAodR-QQFvU70EcC-W1/view?usp=sharing" title="Cart Page"><img src="Images/Final/Cart Page.png" alt="Cart Page" height="100px"/></a></td>
+    <td align ="left">
+      <ul>
+         <li>Nav Bar</li>
+        <li>Items List</li>
+        <li>Coupon Input</li>
+        <li>Net Total</li>
+        <li>People also Viewed</li>         
+      </ul>
+    </td>
+    <td><a href="https://drive.google.com/file/d/1KKNenu1J7NW8XFAodR-QQFvU70EcC-W1/view?usp=sharing" title="Cart Page"><img src="Images/Final/Cart Page.png" alt="Cart Page" height="180px" width="400"/></a></td>
   </tr>
 </table>
 
