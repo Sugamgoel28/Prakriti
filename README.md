@@ -20,15 +20,10 @@ With the growing importance of environmental conservation and sustainable living
 - Prakriti is designed for environmentally conscious individuals who are interested in adopting a greener lifestyle.
 - It caters to users who are looking for eco-friendly products and plants to incorporate into their homes or gift to others.
 
-## Languages Used
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-
-
-
-# View Project 
-<table align="center">
-  <th style="text-align: center">S. No.</th>
+## Project Breakdown 
+<br>
+<table align="center" width="100%">
+  <th>S. No.</th>
   <th>Page</th>
   <th>Key Features</th>
   <th>Video Link</th>
@@ -105,4 +100,15 @@ With the growing importance of environmental conservation and sustainable living
     <td><a href="https://drive.google.com/file/d/1KKNenu1J7NW8XFAodR-QQFvU70EcC-W1/view?usp=sharing" title="Cart Page"><img src="Images/Final/Cart Page.png" alt="Cart Page" height="180px" width="400"/></a></td>
   </tr>
 </table>
+<br>
+<br>
 
+
+## Future Improvements & Deployment
+- Backend Development: The current project does not include a backend, future projects shall be fully operational project.
+- Database integration: The current project does not integrate a database, The database shall be integrated with upcoming versions.
+- Advanced tech stack: The current version is prepared using beginner friendly languages like HTML, CSS. 
+
+## Languages Used
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
