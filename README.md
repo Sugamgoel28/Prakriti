@@ -105,9 +105,10 @@ With the growing importance of environmental conservation and sustainable living
 
 
 ## Future Improvements & Deployment
-- Backend Development: The current project does not include a backend, future projects shall be fully operational project.
-- Database integration: The current project does not integrate a database, The database shall be integrated with upcoming versions.
-- Advanced tech stack: The current version is prepared using beginner friendly languages like HTML, CSS. 
+- **Backend Development:** As the current project focuses on the front end, future iterations will include the development of a robust backend. This will involve implementing server-side technologies, such as Node.js or Django, to handle data management, authentication, & API integrations.
+- **Database Integration:** In upcoming versions, the project will incorporate a database for efficient data storage and retrieval. This will enable dynamic content generation, personalized user experiences, and streamlined product management.
+- **Advanced Tech Stack:** While the current version utilizes beginner-friendly languages like HTML and CSS, future improvements will involve adopting more advanced tech stacks and frameworks. This may include utilizing front-end frameworks like React or Vue.js for enhanced interactivity and scalability, as well as leveraging back-end frameworks like Express.js or Django for efficient server-side development.
+- **Deployment:** Currently hosted on a local server, the project's future iterations will prioritize deployment to improve accessibility. Deployment to a cloud-based platform, such as AWS, Azure, or Heroku, will ensure reliable access to the website from anywhere, enhancing user experience and scalability.
 
 ## Languages Used
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
