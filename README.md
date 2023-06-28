@@ -30,11 +30,11 @@ With the growing importance of environmental conservation and sustainable living
 
 | S No. | Page | Video Link |
 |--| --- | ----------- |
-|1.| Home Page | <a href="https://drive.google.com/file/d/1Kgv3FnNOeJPgLHuiqntjmPo81DiR3ohu/view?usp=sharing" title="Home Page"><img src="Images/Final/Home Page.png" alt="Home Page" height="100px"/></a> |
-|2.| Shop Page | <a href="https://drive.google.com/file/d/1Kgv3FnNOeJPgLHuiqntjmPo81DiR3ohu/view?usp=sharing" title="Shop Page"><img src="Images/Final/Shop page.png" alt="Shop Page" height="100px"/></a> |
-|3.| Blog Page | <a href="https://drive.google.com/file/d/1Kgv3FnNOeJPgLHuiqntjmPo81DiR3ohu/view?usp=sharing" title="Blog Page"><img src="Images/Final/Blog Page.png" alt="Blog Page" height="100px"/></a> |
-|4.| Contact Page | <a href="https://drive.google.com/file/d/1Kgv3FnNOeJPgLHuiqntjmPo81DiR3ohu/view?usp=sharing" title="Contact Page"><img src="Images/Final/Contact Page.png" alt="Contact Page" height="100px"/></a> |
-|5.| Cart Page | <a href="https://drive.google.com/file/d/1Kgv3FnNOeJPgLHuiqntjmPo81DiR3ohu/view?usp=sharing" title="Cart Page"><img src="Images/Final/Cart Page.png" alt="Cart Page" height="100px"/></a> |
+|1.| Home Page | <a href="https://drive.google.com/file/d/1Kgv3FnNOeJPgLHuiqntjmPo81DiR3ohu/view?usp=drive_link" title="Home Page"><img src="Images/Final/Home Page.png" alt="Home Page" height="100px"/></a> |
+|2.| Shop Page | <a href="https://drive.google.com/file/d/1Zz7rL4lZCqDrmS9tdsrYYjlQ6VhlIGs7/view?usp=sharing" title="Shop Page"><img src="Images/Final/Shop page.png" alt="Shop Page" height="100px"/></a> |
+|3.| Blog Page | <a href="https://drive.google.com/file/d/1CF9O4KAPSc7D82FzdZvRjJPqb1wgsL2P/view?usp=sharing" title="Blog Page"><img src="Images/Final/Blog Page.png" alt="Blog Page" height="100px"/></a> |
+|4.| Contact Page | <a href="https://drive.google.com/file/d/1J5rOoumIJ2BSiSWOI9l79FtkDg5B0EC6/view?usp=sharing" title="Contact Page"><img src="Images/Final/Contact Page.png" alt="Contact Page" height="100px"/></a> |
+|5.| Cart Page | <a href="https://drive.google.com/file/d/1KKNenu1J7NW8XFAodR-QQFvU70EcC-W1/view?usp=sharing" title="Cart Page"><img src="Images/Final/Cart Page.png" alt="Cart Page" height="100px"/></a> |
 
 
 
